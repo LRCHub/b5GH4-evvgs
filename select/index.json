@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "桃源郷",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-07T12:28:23.232944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桃源郷 ~Shangrila~",
+      "artist": "DJ TECHNORCH",
+      "has_synced": false,
+      "path": "select/01_桃源郷_~Shangrila~_DJ_TECHNORCH.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桃源郷 -Shangrila-",
+      "artist": "DJ TECHNORCH",
+      "has_synced": false,
+      "path": "select/02_桃源郷_-Shangrila-_DJ_TECHNORCH.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "桃源郷",
+      "artist": "HALCALI",
+      "has_synced": true,
+      "path": "select/03_桃源郷_HALCALI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "桃源郷",
+      "artist": "ももいろクローバーZ",
+      "has_synced": true,
+      "path": "select/04_桃源郷_ももいろクローバーZ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "桃源郷",
+      "artist": "にしな",
+      "has_synced": true,
+      "path": "select/05_桃源郷_にしな.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "桃源郷",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/06_桃源郷_yama.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "桃源郷 -meaning of life TOUR 2022 Live at Zepp DiverCity-",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/07_桃源郷_-meaning_of_life_TOUR_2022_Live_at_Zepp_DiverCity-_yama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "桃源郷 -meanin' of life TOUR 2022 Live at Zepp DiverCity-",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/08_桃源郷_-meanin'_of_life_TOUR_2022_Live_at_Zepp_DiverCity-_Various.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "桃源郷 -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+      "artist": "Yama",
+      "has_synced": true,
+      "path": "select/09_桃源郷_-the_meaning_of_life_TOUR_2022_Live_at_Zepp_DiverCity-_Yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桃源郷",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_桃源郷_RADWIMPS.txt"
+    }
+  ]
+}
